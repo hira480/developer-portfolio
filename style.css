@@ -57,14 +57,15 @@ p{
    
     box-shadow: 10px 10px 30px gray;
 }
-#web-dev-experience {
+#web-dev-experience{
    border-left: 7px solid;
-   border-image: linear-gradient(180deg, lightsalmon, tomato);
+   border-image: linear-gradient(180deg,  blue, cyan);
    border-image-slice: 1;
+   
 }
 #ful-stack-experience{
    border-left: 7px solid;
-   border-image: linear-gradient(180deg, blue, cyan);
+   border-image: linear-gradient(180deg, lightsalmon, tomato);
    border-image-slice: 1;
 }
 footer p{
